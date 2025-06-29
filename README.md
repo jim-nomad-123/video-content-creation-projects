@@ -1,5 +1,5 @@
 # history-video-content-creation
-A list of history-themed AI video projects for previous NS bounties
+A list of video content creation projects for previous NS bounties
 
 ---
 
@@ -9,9 +9,15 @@ A list of history-themed AI video projects for previous NS bounties
 Rap music video project on Estonian history.
 
 ### https://github.com/jim-nomad-123/cuban-history-reggaeton-video
-Raggaeton music video project on Cuban history.
+Reggaeton music video project on Cuban history.
 
 ### https://github.com/jim-nomad-123/argentina_history_video
 Tango music video project on Argentine history.
+
+### https://github.com/jim-nomad-123/orange-phoenix-on-the-rise
+Rap music video project on death of Bitcoin obituraries.
+
+### https://github.com/jim-nomad-123/rise-of-bukele-reggaeton-video
+Reggaeton music video project on the rise of Nayib Bukele.
 
 ---
