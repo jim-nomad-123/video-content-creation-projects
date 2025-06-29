@@ -1,4 +1,4 @@
-# history-video-content-creation
+# Video Content Creation Projects
 A list of video content creation projects for previous NS bounties
 
 ---
