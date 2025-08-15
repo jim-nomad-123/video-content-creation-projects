@@ -21,6 +21,9 @@ Rap music video project on death of Bitcoin obituraries.
 Reggaeton music video project on the rise of Nayib Bukele.
 
 ### https://github.com/jim-nomad-123/ai-update-aeneas-video
-Original instrumental music video project introducing Deepmind's Aeneas AI
+Original instrumental music video project introducing Deepmind's Aeneas AI.
+
+### https://github.com/jim-nomad-123/solarpunk-art-and-video
+An entry to NS Solarpunk Art Contest.
 
 ---
